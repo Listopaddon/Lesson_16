@@ -1,0 +1,22 @@
+{
+  "Products": [
+    {
+      "Name": "Oak",
+      "Price": "42",
+      "Quantity": "40",
+      "Type": "Wood"
+    },
+    {
+      "Name": "Oak",
+      "Price": "42",
+      "Quantity": "40",
+      "Type": "Chemicals"
+    },
+    {
+      "Name": "Oak",
+      "Price": "42",
+      "Quantity": "40",
+      "Type": "Leather"
+    }
+  ]
+}
